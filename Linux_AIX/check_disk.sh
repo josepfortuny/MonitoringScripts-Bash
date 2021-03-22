@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 #
 # Detección de la ocupacion de los file systems del sistema operativos Linux/Unix
 # Escrito por Josep Fortuny Casablancas (jfortunycasablancas@gmail.com)
